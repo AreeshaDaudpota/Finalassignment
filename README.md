@@ -1,2 +1,2 @@
 # Finalassignment
-i have made this to record the submission of my final assignment on a python course.
+I have made this to record the submission of my final assignment on a python course.
